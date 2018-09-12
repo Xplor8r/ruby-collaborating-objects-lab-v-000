@@ -19,7 +19,7 @@ class Song
     song.name = s
     song.artist_name = a
     song
-
+  end
   
   attr_accessor :name, :artist
 
